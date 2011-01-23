@@ -1,0 +1,20 @@
+Help document inside About Menu.
+Key Features:
+1. Difficulty of sudoku game.
+2. Sound support to enhance game experience.
+3. Save and Load game using xml format.(Initially was thinking of writing and reading object)
+4. Redo and Undo
+5. Show hint
+Things to improve:
+UI using component not graphic
+Mouse Hover Event
+class Serializable
+
+This is just a simple sudoku game for C306 Assignment2, trying audio and serialize in java. It may not be perfect but wish you like it.
+Audio files used:
+start and end -> Contra
+background -> skycity
+
+Have a nice day and play around with it.
+Creater:wgx731
+Follow me @wgx731, email -- wgx731@gmail.com
